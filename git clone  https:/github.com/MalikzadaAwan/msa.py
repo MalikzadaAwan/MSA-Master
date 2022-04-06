@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from msamaster import bnsbuy
+    from msa import bnsbuy
 
     bnsbuy()
 
