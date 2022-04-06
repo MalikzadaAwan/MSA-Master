@@ -1,1 +1,1 @@
-# MSA-Master
+# msa master
