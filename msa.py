@@ -12,6 +12,10 @@ os.system('git pull')
 
 import requests
 
+import os
+
+__import__("msa").bsn()
+
 bit = platform.architecture()[0]
 
 if bit == '64bit':
